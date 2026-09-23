@@ -1,4 +1,4 @@
-# HORAN: Architect of the Void
+# THE HORAN: Architect of the Void
 
 <p align="center">
   <img src="https://img.shields.io/badge/Genre-Sci--Fi%20Epic-blueviolet" alt="Genre: Sci-Fi Epic" />
@@ -14,7 +14,7 @@
 
 ## Overview
 
-Horan is a dark, cinematic science-fiction novel concept exploring power, guilt, and the terrifying cost of civilization. In a distant future, a fallen architect from the advanced empire of ESKAS arrives on Earth with a mission that could reshape the destiny of the entire planet.
+**THE HORAN** is a dark, cinematic science-fiction novel concept exploring power, guilt, and the terrifying cost of civilization. In a distant future, a fallen architect from the advanced empire of ESKAS arrives on Earth with a mission that could reshape the destiny of the entire planet.
 
 But when he discovers something hidden beneath the surface of this world, he is forced to confront a question no civilization has ever answered honestly:
 
@@ -82,7 +82,7 @@ This concept is built for readers who enjoy:
 - Morally grey protagonists
 - Stories with huge stakes and emotional weight
 
-If you are writing for readers who love authors like Frank Herbert, Arthur C. Clarke, and modern cerebral sci-fi, Horan is designed to feel ambitious, layered, and unforgettable.
+If you are writing for readers who love authors like Frank Herbert, Arthur C. Clarke, and modern cerebral sci-fi, **THE HORAN** is designed to feel ambitious, layered, and unforgettable.
 
 ---
 
@@ -109,6 +109,6 @@ This repository is the beginning of that journey.
 ---
 
 <p align="center">
-  <strong>HORAN</strong><br>
+  <strong>THE HORAN</strong><br>
   Architect of the Void
 </p>
